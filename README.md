@@ -9,3 +9,5 @@ sudo apt-get install libpq-dev
 <br/>
 gem install pg
 
+## Install git
+sudo apt-get install git <br>
